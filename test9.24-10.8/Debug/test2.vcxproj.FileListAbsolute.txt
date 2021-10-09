@@ -1,0 +1,2 @@
+D:\vs2021\test2\Debug\test2.exe
+D:\vs2021\test\Debug\test2.exe
